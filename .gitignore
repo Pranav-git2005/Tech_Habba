@@ -1,0 +1,28 @@
+
+# Java
+target/
+*.class
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# React
+node_modules/
+dist/
+
+# Environment variables
+.env
+.env.*
+
+# IntelliJ
+.idea/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
